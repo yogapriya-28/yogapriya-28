@@ -42,10 +42,11 @@
 
 ## 💙 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogapriya-28&show_icons=true&hide_border=true)
+> ℹ️ If this section doesn’t render temporarily, it’s due to GitHub image proxy limits (normal behavior).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogapriya-28&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogapriya-28&show_icons=true&hide_border=true&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogapriya-28&layout=compact&hide_border=true&cache_seconds=1800)
 
 ---
 
@@ -94,9 +95,8 @@
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yogapriya-28)
+![Visitor Count](https://komarev.com/ghpvc/?username=yogapriya-28&style=flat-square)
 
 ---
 
 💙 **Thanks for visiting my GitHub profile!**
-
