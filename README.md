@@ -42,7 +42,10 @@
 
 ## 💙 GitHub Stats
 
-![Yoga Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogapriya-28&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogapriya-28&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogapriya-28&layout=compact&hide_border=true)
+
 
 ---
 
